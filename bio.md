@@ -1,4 +1,5 @@
-*Jonathan Wrona*
+Jonathan Wrona
+---
 
 jonwrona@gmail.com
 

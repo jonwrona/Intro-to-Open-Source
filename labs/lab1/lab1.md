@@ -1,1 +1,1 @@
-!(Regex Completion Page)[/img/regex.png]
+!(Regex Completion Page)[img/regex.png]

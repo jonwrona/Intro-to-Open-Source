@@ -1,5 +1,7 @@
 #Lab 1
 
+Jonathan Wrona, January 1st, 2016
+
 ##Reading Assignments
 
 ###The 10 Criteria of Open Source Definition

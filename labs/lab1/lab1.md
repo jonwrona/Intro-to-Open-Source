@@ -1,6 +1,6 @@
 #Lab 1
 
-Jonathan Wrona, January 1st, 2016
+Jonathan Wrona, *January 1st, 2016*
 
 ##Reading Assignments
 

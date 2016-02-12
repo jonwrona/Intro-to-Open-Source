@@ -28,7 +28,7 @@ My example project is Table Tome, a personal project of mine. I chose the GPL be
 
 - *Developer:* **LGPL** Better for the developer who wants to use, for example, a library. They do not have to use the same license as the library if they only utilize the library, but if they are making modifications to the library and republishing then the license must stay the same, which benefits the original developer.
 
-- *Company:* **Apache** The Apache license is best for a company because it restricts the use of a trademark.
+- *Company:* **Apache** The Apache license is best for a company because it restricts the use of a trademark. Also, if a corporation chose to use the GPL, they would be able to release their product without releasing their source code.
 
 - *Common Good:* **GPL** The GPL is best for the common good because every modification that is made must be redistributed using the same license. This means that any changes will remain under the GPL.
 

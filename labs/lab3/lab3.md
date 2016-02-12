@@ -28,3 +28,10 @@ Part 2
 Part 3
 ---
 
+### courseproject
+
+I have chosen already to continue working on Table Tome, which has a repository already.
+
+### New Story
+
+**Repository Link:** https://github.com/jonwrona/NewStory

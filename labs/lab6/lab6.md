@@ -1,0 +1,3 @@
+- Chrometana: 6 contributors, 16345 lines, [First Commit](https://github.com/TheoBr/Chrometana/commit/1c5c94e6886dc4a0ec67fc9f3a02c693a8aae9d2), [Last Commit](https://github.com/TheoBr/Chrometana/commit/2e21b5759af8cb345f4d90d168591dae485aa738), Current Branches {master, UIPart2, dev}
+- Normal Side of Youtube: A JOHN DOE PROJECT
+- Microsoft Windows - Open Source Edition: A JOHN DOE PROJECT

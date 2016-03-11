@@ -5,12 +5,12 @@ Jonathan Wrona, *March 11th, 2016*
 ## Projects By Hand
 
 - Chrometana: 6 contributors, 16345 lines, [First Commit](https://github.com/TheoBr/Chrometana/commit/1c5c94e6886dc4a0ec67fc9f3a02c693a8aae9d2), [Last Commit](https://github.com/TheoBr/Chrometana/commit/2e21b5759af8cb345f4d90d168591dae485aa738), Current Branches {master, UIPart2, dev}
-- Neptune: 3 contributors, 10,200 lines, [First commit](https://github.com/sarbos/Neptune/commit/0de1ad305034ea34a7317def006c6e902447635d)[Last commit](https://github.com/sarbos/Neptune/commit/c2a35caac4c5ff998db4a7c8173a193d67957fe0), Current Branches {arduino-fixes, device-dev, host-dev, hw-dev, master}
+- Neptune: 3 contributors, 10,200 lines, [First commit](https://github.com/sarbos/Neptune/commit/0de1ad305034ea34a7317def006c6e902447635d), [Last commit](https://github.com/sarbos/Neptune/commit/c2a35caac4c5ff998db4a7c8173a193d67957fe0), Current Branches {arduino-fixes, device-dev, host-dev, hw-dev, master}
+- CodeCombat: 437 contributors, 373428 lines of code, [First commit](https://github.com/MonkStrom/codecombat/commit/f9e0bf948eaa91a43e21547916f977e80d483098), [Last commit](https://github.com/MonkStrom/codecombat/commit/22022c1ef1aef1bc53d51b06c6c3958aaa91e062), Cirremt Branches {docker, master, new_account_page, production, single-process-server-tests, soffes/ipad, travis-test}
 
 ## Git Stats
 
-###**Project name**
-Chrometana
+###Chrometana
 
 **Generated**
 2016-03-11 12:18:20 (in 0 seconds)
@@ -37,8 +37,7 @@ GitStats (version 55c5c28), git version 2.1.4, gnuplot 4.6 patchlevel 6
 7 (average 15.6 commits per author)
 
 
-###**Project name**
-Neptune
+###Neptune
 
 **Generated**
 2016-03-11 12:17:37 (in 0 seconds)
@@ -66,8 +65,7 @@ patchlevel 6
 4 (average 8.0 commits per author)
 
 
-###**Project name**
-codecombat
+###codecombat
 
 **Generated**
 2016-03-11 12:23:14 (in 56 seconds)

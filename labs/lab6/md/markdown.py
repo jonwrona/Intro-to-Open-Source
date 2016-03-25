@@ -40,23 +40,25 @@ def isBlockquote(line):
   return False
 
 def blockquote(line):
+  line = re.sub(r'>(.*)', r'\1', line)
   return line
 
 
 inBlockquote = False
-
 for line in fileinput.input():
   line = line.rstrip()
   if isBlockquote(line):
+    if not inBlockquote:
+      line = '<blockquote><p>' + line
     inBlockquote = True
-
+    line = blockquote(line)
   elif inBlockquote:
     inBlockquote = False
-    
+    line = '</blockquote>' + line
   else:
     line = convertStrong(line)
     line = convertEm(line)
     line = convertH3(line)
     line = convertH2(line)
     line = convertH1(line)
-  print '<p>' + line + '</p>',
+  print '<p>' + line + '</p>'

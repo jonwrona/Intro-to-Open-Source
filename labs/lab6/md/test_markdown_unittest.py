@@ -53,8 +53,8 @@ class TestMarkdownPy(unittest.TestCase):
 
     def test_blockquote(self):
         self.assertEqual(
-                run_markdown('>line1\n>line2\n>line3\nnot blockquote'),
-                '<p><blockquote><p>line1</p><p>line2</p><p>line3</p></blockquote>not blockquote</p>')
+                run_markdown('>line1\n>line2\n>line3\n'),
+                '<blockquote><p>line1</p><p>line2</p><p>line3</p></blockquote>')
 
 
 if __name__ == '__main__':

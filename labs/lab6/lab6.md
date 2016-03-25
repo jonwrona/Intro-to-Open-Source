@@ -1,4 +1,12 @@
-#Lab 1
+
+
+##Python Unit Testing
+> $ python test_markdown_unittest.py 
+> .......
+> ----------------------------------------------------------------------
+> Ran 7 tests in 0.209s
+> 
+> OK#Lab 1
 
 Jonathan Wrona, *March 11th, 2016*
 
@@ -96,3 +104,12 @@ GitStats (version 55c5c28), git version 1.7.3.4, gnuplot 5.0 patchlevel 2
 - [Chrometana](https://youtu.be/Grogq9OKagY)
 - [codecombat](https://youtu.be/LBCm2hQ2ezQ)
 - [Neptune](https://youtu.be/_JB_LKbdZsc)
+
+##Python Unit Testing
+
+> $ python test_markdown_unittest.py 
+> .......
+> ----------------------------------------------------------------------
+> Ran 7 tests in 0.209s
+> 
+> OK

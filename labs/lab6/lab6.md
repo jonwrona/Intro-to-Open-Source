@@ -1,12 +1,4 @@
-
-
-##Python Unit Testing
-> $ python test_markdown_unittest.py 
-> .......
-> ----------------------------------------------------------------------
-> Ran 7 tests in 0.209s
-> 
-> OK#Lab 1
+#Lab 6
 
 Jonathan Wrona, *March 11th, 2016*
 
